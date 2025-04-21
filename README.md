@@ -5,11 +5,11 @@ This repository contains a collection of small Python projects and scripts creat
 ##  Project Categories
 
 -  Data Analysis & Visualization  
-- ⚙ Automation Scripts  
+-  Automation Scripts  
 -  API Integration  
-- File Handling  
-- Algorithms & Problem Solving  
-- Small Games (e.g., Tic Tac Toe, Hangman)
+-  File Handling  
+-  Algorithms & Problem Solving  
+-  Small Games (e.g., Tic Tac Toe, Hangman)
 
 ##  Getting Started
 
